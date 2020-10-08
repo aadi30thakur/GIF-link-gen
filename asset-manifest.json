@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GIF-link-gen/static/css/main.1eb63f87.chunk.css",
+    "main.js": "/GIF-link-gen/static/js/main.a940a9bf.chunk.js",
+    "main.js.map": "/GIF-link-gen/static/js/main.a940a9bf.chunk.js.map",
+    "runtime-main.js": "/GIF-link-gen/static/js/runtime-main.3d5c2921.js",
+    "runtime-main.js.map": "/GIF-link-gen/static/js/runtime-main.3d5c2921.js.map",
+    "static/js/2.2e5b90e7.chunk.js": "/GIF-link-gen/static/js/2.2e5b90e7.chunk.js",
+    "static/js/2.2e5b90e7.chunk.js.map": "/GIF-link-gen/static/js/2.2e5b90e7.chunk.js.map",
+    "index.html": "/GIF-link-gen/index.html",
+    "precache-manifest.3d9f9c74d1e8ee737803c60512b814f4.js": "/GIF-link-gen/precache-manifest.3d9f9c74d1e8ee737803c60512b814f4.js",
+    "service-worker.js": "/GIF-link-gen/service-worker.js",
+    "static/css/main.1eb63f87.chunk.css.map": "/GIF-link-gen/static/css/main.1eb63f87.chunk.css.map",
+    "static/js/2.2e5b90e7.chunk.js.LICENSE.txt": "/GIF-link-gen/static/js/2.2e5b90e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5c2921.js",
+    "static/js/2.2e5b90e7.chunk.js",
+    "static/css/main.1eb63f87.chunk.css",
+    "static/js/main.a940a9bf.chunk.js"
+  ]
+}
