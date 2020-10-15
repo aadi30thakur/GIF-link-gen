@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
-
+import '../comp.css'
 const API = process.env.REACT_APP_API;
 function Random() {
     const [gif, setGif] = useState("")
@@ -19,12 +19,12 @@ function Random() {
     }
 
     return (
-        <div>
-            <h2>Random Gifs</h2>
-            <img src={gif} width="auto" height="auto" alt="GIf" />
-            <br/>
-            <div className="btn btn-dark" onClick={handleClick}>hello</div>
-            <p>the url of the gif is {gif}</p>
+        <div className="back">
+            <h2 id="x">Random Gifs</h2>
+                    <img src={gif} width="300" height="300" alt="GIf" />
+                <br/>
+                    <div className="btn btn-dark" onClick={handleClick}>hello</div>
+                <p>the url of the gif is {gif}</p>
         </div>
     )
 }
